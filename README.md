@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nesararahal&label=Profile%20views&color=0e75b6&style=flat" alt="nesararahal" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Java, C#, MySQL**
 
